@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.shiro:shiro-ehcache:1.3.0">
+    <CLASSES>
+      <root url="jar://D:/gradle/repo/caches/modules-2/files-2.1/org.apache.shiro/shiro-ehcache/1.3.0/8a1e1b521ebf809389d9851373f983701fd2f148/shiro-ehcache-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle/repo/caches/modules-2/files-2.1/org.apache.shiro/shiro-ehcache/1.3.0/dff06518832f94d3cd3522127ad4887b042a7dd6/shiro-ehcache-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
